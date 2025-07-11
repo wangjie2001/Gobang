@@ -1,6 +1,6 @@
 # Gobang
 This is a backgammon project that supports functions such as al battles and regret chess
-
+开发环境：Qt5.12
 游戏功能说明
 游戏模式：玩家（黑棋）与人机（白棋）对战。
 棋盘：15x15标准五子棋棋盘。
